@@ -1,0 +1,170 @@
+{
+  "sommaire": {
+    "education": [
+      {
+        "id": 1,
+        "title": "Tire de l'article 1",
+        "smallImage": " https://images.performgroup.com/di/library/GOAL/eb/c3/lionel-messi-barcelona_1pd8pjfbnbyxy1d4zvdi1knnki.jpg?t=-816459712&quality=90&w=1280",
+        "largeImage": "https://images.performgroup.com/di/library/GOAL/eb/c3/lionel-messi-barcelona_1pd8pjfbnbyxy1d4zvdi1knnki.jpg?t=-816459712&quality=90&w=1280",
+        "publicationDate": 1458769076,
+        "readingTime": "3 minutes",
+        "author": "Youssef Cous Cous",
+        "listePargraphes": [
+          {
+            "content": "Contenu paragraphe 1",
+            "title": "Titre paragraphe 1"
+          },
+          {
+            "content": "Contenu du pargraphe 2",
+            "title": "Titre du paragraphe 2"
+          }
+        ]
+      },
+      {
+        "id": 2,
+        "title": "Tire de l'article 2",
+        "smallImage": " https://images.performgroup.com/di/library/GOAL/eb/c3/lionel-messi-barcelona_1pd8pjfbnbyxy1d4zvdi1knnki.jpg?t=-816459712&quality=90&w=1280",
+        "largeImage": "https://images.performgroup.com/di/library/GOAL/eb/c3/lionel-messi-barcelona_1pd8pjfbnbyxy1d4zvdi1knnki.jpg?t=-816459712&quality=90&w=1280",
+        "publicationDate": 1458769076,
+        "readingTime": "3 minutes",
+        "author": "Youssef Cous Cous",
+        "listePargraphes": [
+          {
+            "content": "Contenu paragraphe 1",
+            "title": "Titre paragraphe 1"
+          },
+          {
+            "content": "Contenu du pargraphe 2",
+            "title": "Titre du paragraphe 2"
+          }
+        ]
+      }
+    ]
+  },
+  "articles": [
+    {
+      "id": 1,
+      "articleDetaille": {
+        "id": 1,
+        "title": "Tire de l'article 1",
+        "smallImage": " https://images.performgroup.com/di/library/GOAL/eb/c3/lionel-messi-barcelona_1pd8pjfbnbyxy1d4zvdi1knnki.jpg?t=-816459712&quality=90&w=1280",
+        "largeImage": "https://images.performgroup.com/di/library/GOAL/eb/c3/lionel-messi-barcelona_1pd8pjfbnbyxy1d4zvdi1knnki.jpg?t=-816459712&quality=90&w=1280",
+        "publicationDate": 1458769076,
+        "readingTime": "3 minutes",
+        "author": "Youssef Cous Cous",
+        "listePargraphes": [
+          {
+            "content": "Protéger vos meubles et objets, garantir les dommagés causés à des tiers.. Faire le lien entre vos 2 logements, l'ancien et le nouveau, protéger vos meubles et objets, garantir les dommages causés à des tiers...\nPour prévenir tous les risques liés au déménagement, la GMF vous propose :",
+            "title": "FAIRE LE LIEN ENTRE VOS 2 LOGEMENTS, L'ANCIEN ET LE NOUVEAU"
+          },
+          {
+            "content": "Une panne de camion, un accident même bénin et vous voilà bloqués, vous et vos proches, sans compter les blessés éventuels ou la détérioration de tout ou partie de votre mobilier !",
+            "title": "UNE ASSISTANCE À VOS COTÉS"
+          }
+        ]
+      },
+      "articlesAssocies": [
+        {
+          "id": 2,
+          "title": "Tire de l'article 2",
+          "smallImage": " https://images.performgroup.com/di/library/GOAL/eb/c3/lionel-messi-barcelona_1pd8pjfbnbyxy1d4zvdi1knnki.jpg?t=-816459712&quality=90&w=1280",
+          "largeImage": "https://images.performgroup.com/di/library/GOAL/eb/c3/lionel-messi-barcelona_1pd8pjfbnbyxy1d4zvdi1knnki.jpg?t=-816459712&quality=90&w=1280",
+          "publicationDate": 1458769076,
+          "readingTime": "3 minutes",
+          "author": "Youssef Cous Cous",
+          "listePargraphes": [
+            {
+              "content": "Contenu paragraphe 1",
+              "title": "Titre paragraphe 1"
+            },
+            {
+              "content": "Contenu du pargraphe 2",
+              "title": "Titre du paragraphe 2"
+            }
+          ]
+        },
+        {
+          "id": 2,
+          "title": "Tire de l'article 2",
+          "smallImage": " https://images.performgroup.com/di/library/GOAL/eb/c3/lionel-messi-barcelona_1pd8pjfbnbyxy1d4zvdi1knnki.jpg?t=-816459712&quality=90&w=1280",
+          "largeImage": "https://images.performgroup.com/di/library/GOAL/eb/c3/lionel-messi-barcelona_1pd8pjfbnbyxy1d4zvdi1knnki.jpg?t=-816459712&quality=90&w=1280",
+          "publicationDate": 1458769076,
+          "readingTime": "3 minutes",
+          "author": "Youssef Cous Cous",
+          "listePargraphes": [
+            {
+              "content": "Contenu paragraphe 1",
+              "title": "Titre paragraphe 1"
+            },
+            {
+              "content": "Contenu du pargraphe 2",
+              "title": "Titre du paragraphe 2"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 2,
+      "articleDetaille": {
+        "id": 2,
+        "title": "Tire de l'article 2",
+        "smallImage": " https://images.performgroup.com/di/library/GOAL/eb/c3/lionel-messi-barcelona_1pd8pjfbnbyxy1d4zvdi1knnki.jpg?t=-816459712&quality=90&w=1280",
+        "largeImage": "https://images.performgroup.com/di/library/GOAL/eb/c3/lionel-messi-barcelona_1pd8pjfbnbyxy1d4zvdi1knnki.jpg?t=-816459712&quality=90&w=1280",
+        "publicationDate": 1458769076,
+        "readingTime": "3 minutes",
+        "author": "Youssef Cous Cous",
+        "listePargraphes": [
+          {
+            "content": "Protéger vos meubles et objets, garantir les dommagés causés à des tiers.. Faire le lien entre vos 2 logements, l'ancien et le nouveau, protéger vos meubles et objets, garantir les dommages causés à des tiers...\nPour prévenir tous les risques liés au déménagement, la GMF vous propose :",
+            "title": "FAIRE LE LIEN ENTRE VOS 2 LOGEMENTS, L'ANCIEN ET LE NOUVEAU"
+          },
+          {
+            "content": "Une panne de camion, un accident même bénin et vous voilà bloqués, vous et vos proches, sans compter les blessés éventuels ou la détérioration de tout ou partie de votre mobilier !",
+            "title": "UNE ASSISTANCE À VOS COTÉS"
+          }
+        ]
+      },
+      "articlesAssocies": [
+        {
+          "id": 1,
+          "title": "Tire de l'article 1",
+          "smallImage": " https://images.performgroup.com/di/library/GOAL/eb/c3/lionel-messi-barcelona_1pd8pjfbnbyxy1d4zvdi1knnki.jpg?t=-816459712&quality=90&w=1280",
+          "largeImage": "https://images.performgroup.com/di/library/GOAL/eb/c3/lionel-messi-barcelona_1pd8pjfbnbyxy1d4zvdi1knnki.jpg?t=-816459712&quality=90&w=1280",
+          "publicationDate": 1458769076,
+          "readingTime": "3 minutes",
+          "author": "Youssef Cous Cous",
+          "listePargraphes": [
+            {
+              "content": "Contenu paragraphe 1",
+              "title": "Titre paragraphe 1"
+            },
+            {
+              "content": "Contenu du pargraphe 2",
+              "title": "Titre du paragraphe 2"
+            }
+          ]
+        },
+        {
+          "id": 1,
+          "title": "Tire de l'article 1",
+          "smallImage": " https://images.performgroup.com/di/library/GOAL/eb/c3/lionel-messi-barcelona_1pd8pjfbnbyxy1d4zvdi1knnki.jpg?t=-816459712&quality=90&w=1280",
+          "largeImage": "https://images.performgroup.com/di/library/GOAL/eb/c3/lionel-messi-barcelona_1pd8pjfbnbyxy1d4zvdi1knnki.jpg?t=-816459712&quality=90&w=1280",
+          "publicationDate": 1458769076,
+          "readingTime": "3 minutes",
+          "author": "Youssef Cous Cous",
+          "listePargraphes": [
+            {
+              "content": "Contenu paragraphe 1",
+              "title": "Titre paragraphe 1"
+            },
+            {
+              "content": "Contenu du pargraphe 2",
+              "title": "Titre du paragraphe 2"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
