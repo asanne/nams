@@ -1,6 +1,5 @@
 {
-  "sommaire": {
-    "education": [
+  "sommaire": [
       {
         "id": 1,
         "title": "Tire de l'article 1",
@@ -39,8 +38,7 @@
           }
         ]
       }
-    ]
-  },
+    ],
   "articles": [
     {
       "id": 1,
